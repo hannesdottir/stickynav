@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hannesdottir/stickynav.git/static/css/main.38e7136d.css",
-    "main.js": "/hannesdottir/stickynav.git/static/js/main.957007a4.js",
-    "static/js/787.854724ad.chunk.js": "/hannesdottir/stickynav.git/static/js/787.854724ad.chunk.js",
-    "index.html": "/hannesdottir/stickynav.git/index.html",
-    "main.38e7136d.css.map": "/hannesdottir/stickynav.git/static/css/main.38e7136d.css.map",
-    "main.957007a4.js.map": "/hannesdottir/stickynav.git/static/js/main.957007a4.js.map",
-    "787.854724ad.chunk.js.map": "/hannesdottir/stickynav.git/static/js/787.854724ad.chunk.js.map"
+    "main.css": "/stickynav/static/css/main.38e7136d.css",
+    "main.js": "/stickynav/static/js/main.c8d342ce.js",
+    "static/js/787.854724ad.chunk.js": "/stickynav/static/js/787.854724ad.chunk.js",
+    "index.html": "/stickynav/index.html",
+    "main.38e7136d.css.map": "/stickynav/static/css/main.38e7136d.css.map",
+    "main.c8d342ce.js.map": "/stickynav/static/js/main.c8d342ce.js.map",
+    "787.854724ad.chunk.js.map": "/stickynav/static/js/787.854724ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38e7136d.css",
-    "static/js/main.957007a4.js"
+    "static/js/main.c8d342ce.js"
   ]
 }
