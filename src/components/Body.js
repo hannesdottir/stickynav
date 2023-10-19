@@ -1,0 +1,49 @@
+import React from "react";
+
+export default function Head() {
+  return (
+    <div>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+      <p>OK</p>
+    </div>
+  );
+}
